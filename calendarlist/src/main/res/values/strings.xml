@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarListview</string>
+
+
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="today">今天</string>
+</resources>

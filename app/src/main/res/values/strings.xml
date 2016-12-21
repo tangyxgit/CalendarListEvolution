@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalendarListEvolution</string>
+    <string name="select_calendar_go">出发\t%1$s</string>
+    <string name="select_calendar_back">返回\t%1$s</string>
+    <string name="week_day_01">日</string>
+    <string name="week_day_02">一</string>
+    <string name="week_day_03">二</string>
+    <string name="week_day_04">三</string>
+    <string name="week_day_05">四</string>
+    <string name="week_day_06">五</string>
+    <string name="week_day_07">六</string>
+    <string name="select_go_time">请选择出发日期</string>
+    <string name="select_back_time">请选择返回日期</string>
+</resources>
